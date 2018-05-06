@@ -1,0 +1,29 @@
+[
+    {
+        "image": "../data/source/zhoujielun.jpg",
+        "audio": "../data/source/gaobaiqiqiu.mp3",
+        "song": "告白气球",
+        "album": "周杰伦的床边故事",
+        "singer": "周杰伦",
+        "duration": 215,
+        "isLike": true
+    },
+    {
+        "image": "../data/source/red.jpg",
+        "audio": "../data/source/I Knew You Were Trouble.mp3",
+        "song": "I Knew You Were Trouble",
+        "album": "Red",
+        "singer": "Taylor Swift",
+        "duration": 219,
+        "isLike": false
+    },
+    {
+        "image": "../data/source/nihaiyaowozenyang.jpg",
+        "audio": "../data/source/nihaiyaowozenyang.mp3",
+        "song": "你还要我怎样",
+        "album": "意外",
+        "singer": "薛之谦",
+        "duration": 311,
+        "isLike": false
+    }
+]
