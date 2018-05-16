@@ -11,4 +11,6 @@ $ export NODE_ENV=development
 进入开发模式
 
 $ gulp
+
+然后在浏览器打开localhost:9999
 ```
